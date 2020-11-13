@@ -8,7 +8,7 @@ package pboif2.pkg10119084.latihan45.cetaknama;
 Nama : Muhammad Idris Merdefi
 Kelas : PBOIF2
 NIM : 10119084
-Deskripsi Program : Program ini berisi program untuk menampilkan umur
+Deskripsi Program : Program ini berisi program untuk menampilkan cetak nama
  */
 import java.util.Scanner;
 public class PBOIF210119084Latihan45CetakNama {
